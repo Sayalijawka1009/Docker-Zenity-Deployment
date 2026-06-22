@@ -24,6 +24,43 @@ Enter Docker Hub credentials through the Zenity GUI.
 
 <img width="1072" height="545" alt="Screenshot 2026-06-21 122954" src="https://github.com/user-attachments/assets/5585decb-2d79-4d75-997d-4e0996957552" />
 
+Step 4: Login to Docker Hub
+Authenticate with your Docker Hub account before pushing the image.
+
+<img width="813" height="537" alt="Screenshot 2026-06-21 123034" src="https://github.com/user-attachments/assets/1ce4af95-2574-479f-8f6b-26080bb88b21" />
+<img width="858" height="536" alt="Screenshot 2026-06-21 143018" src="https://github.com/user-attachments/assets/df55ff57-906f-426b-91f4-8c66e5e3a1f6" />
+
+Step 5: Select Dockerfile
+The user selects the Dockerfile using the Zenity file selection dialog.
+
+<img width="867" height="581" alt="Screenshot 2026-06-21 144218" src="https://github.com/user-attachments/assets/1a8ad169-f6c8-422b-b908-8c1b3824f319" />
+
+Step 5: Build Docker Image
+Select the Dockerfile using the file chooser dialog.
+Build the Docker image automatically using the provided image name.
+
+<img width="862" height="403" alt="Screenshot 2026-06-21 144416" src="https://github.com/user-attachments/assets/0d72f11f-8a08-4799-93c7-4039bd845a00" />
+
+Step 7: Push Image to Docker Hub
+Upload the tagged image to Docker Hub.
+Display success or failure notifications using Zenity.
+
+<img width="862" height="521" alt="Screenshot 2026-06-21 144654" src="https://github.com/user-attachments/assets/e931b5e5-fb47-49f3-9974-96268be7ef77" />
+
+Step 8: Verify Deployment
+Confirm that the image is available in the Docker Hub repository.
+Pull and run the image to validate successful deployment.
+
+<img width="485" height="83" alt="Screenshot 2026-06-21 144745" src="https://github.com/user-attachments/assets/0c09840f-e64f-4e8d-a35f-d23f2f2dd7df" />
+<img width="876" height="306" alt="Screenshot 2026-06-21 150859" src="https://github.com/user-attachments/assets/d77e8a9e-3648-4979-8a15-bde8ef1e2a1d" />
+
+
+
+
+
+
+
+
 
 
 
